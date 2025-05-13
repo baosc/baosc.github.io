@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Vite</title>
+        <link>https://vite.dev/blog</link>
+        <description>Next Generation Frontend Tooling</description>
+        <lastBuildDate>Tue, 13 May 2025 03:25:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <image>
+            <title>Vite</title>
+            <url>https://vite.dev/og-image.png</url>
+            <link>https://vite.dev/blog</link>
+        </image>
+        <copyright>Copyright © 2019-present VoidZero Inc. &amp; Vite Contributors</copyright>
+    </channel>
+</rss>
